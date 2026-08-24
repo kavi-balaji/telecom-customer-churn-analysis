@@ -36,11 +36,11 @@ This project identifies the key drivers of customer churn — including contract
 
 | File | Description |
 |------|-------------|
-| `telecom_churn_queries.sql` | SQL queries for data exploration and churn analysis |
-| `telecom_churn_analysis.py` | Python script for churn rate analysis and charts |
-| `Telecom_Customer_project.pbix` | Power BI dashboard file |
-| `dashboard_screenshot.png` | Screenshot of the main dashboard |
-| `insights_screenshot.png` | Screenshot of the business insights page |
+| `telecom_churn_queries.sql` | SQL queries used for customer churn analysis |
+| `telecom_churn_analysis.py` | Python analysis and Matplotlib visualizations |
+| `Telecom_Customer_project.pbix` | Power BI dashboard and business insights |
+| `dashboard_screenshot.png` | Preview of the Power BI dashboard |
+| `insights_screenshot.png` | Preview of the business insights page |
 
 ## Dashboard Preview
 ![Telecom Customer Churn Dashboard](dashboard_screenshot.png)
