@@ -34,7 +34,6 @@ This project identifies the key drivers of customer churn — including contract
 | `Telecom_Customer_project.pbix` | Power BI dashboard file |
 | `dashboard_screenshot.png` | Screenshot of the main dashboard |
 | `insights_screenshot.png` | Screenshot of the business insights page |
-| Dataset file | Raw customer data used for analysis |
 
 ## Dashboard Preview
 ![Telecom Customer Churn Dashboard](dashboard_screenshot.png)
