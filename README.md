@@ -10,6 +10,13 @@ An end-to-end data analysis project exploring customer churn patterns for a tele
 
 This project identifies the key drivers of customer churn — including contract type, payment method, internet service, tenure, and monthly charges — and highlights the highest-risk customer segments for targeted retention strategies.
 
+## Project Highlights
+
+- Analyzed **7,043 telecom customers** and identified **1,869 churned customers**.
+- Performed data analysis using **SQL and Python**.
+- Created visualizations using **Matplotlib**.
+- Built an interactive **Power BI dashboard** to identify churn patterns and high-risk customer segments.
+
 ## Tools Used
 
 - **SQL (MySQL)** — data exploration and churn rate calculations
