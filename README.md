@@ -37,8 +37,7 @@ This project identifies the key drivers of customer churn — including contract
 | Dataset file | Raw customer data used for analysis |
 
 ## Dashboard Preview
-
-![Dashboard](dashboard_screenshot.png)
+![Telecom Customer Churn Dashboard](dashboard_screenshot.png)
 
 ## Business Insights Preview
 
